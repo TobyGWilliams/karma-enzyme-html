@@ -1,6 +1,6 @@
 {
   "name": "karma-enzyme-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "library for mounting enzyme elements in the browser using karma",
   "main": "./src/index.js",
   "scripts": {
