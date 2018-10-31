@@ -1,0 +1,24 @@
+{
+  "name": "karma-enzyme-html",
+  "version": "1.0.0",
+  "description": "library for mounting enzyme elements in the browser using karma",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobyGWilliams/karma-enzyme-html.git"
+  },
+  "keywords": [
+    "karma",
+    "enzyme",
+    "html"
+  ],
+  "author": "Toby Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TobyGWilliams/karma-enzyme-html/issues"
+  },
+  "homepage": "https://github.com/TobyGWilliams/karma-enzyme-html#readme"
+}
