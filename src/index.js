@@ -11,7 +11,7 @@ const kehtml = function(files, baseReporterDecorator) {
   // };
 };
 
-kmhtml.$inject = ["config.files", "baseReporterDecorator"];
+ketml.$inject = ["config.files", "baseReporterDecorator"];
 
 module.exports = {
   "reporter:karma-enzyme-html": ["type", kehtml]
