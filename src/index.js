@@ -1,5 +1,5 @@
 /* eslint-disable func-names */
-const kmhtml = function(files, baseReporterDecorator) {
+const kehtml = function(files, baseReporterDecorator) {
   // things that can be passed to the reporter:'baseReporterDecorator', 'formatError', 'config'
   baseReporterDecorator(this);
 
@@ -14,7 +14,7 @@ const kmhtml = function(files, baseReporterDecorator) {
 kmhtml.$inject = ["config.files", "baseReporterDecorator"];
 
 module.exports = {
-  "reporter:kmhtml": ["type", kmhtml]
+  "reporter:karma-enzyme-html": ["type", kehtml]
 };
 
 // var JASMINE_CORE_PATTERN = /([\\/]karma-jasmine[\\/])/i;
