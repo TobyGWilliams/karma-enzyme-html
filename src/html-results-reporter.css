@@ -1,0 +1,17 @@
+.greenText {
+  color: green;
+}
+.redText {
+  color: red;
+}
+report {
+  display: block;
+  padding-left: 1em;
+}
+
+reports {
+  display: block;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+  background: whitesmoke;
+}
